@@ -1,6 +1,6 @@
 # Next Marvel Movies
 
-Este proyecto muestra como muestra el titulo cual es la siguiente pelicula de Marvel, consumiendo una API externa y mostrando los datos necesarios por pantalla de forma amigable
+Este proyecto, como muestra el titulo nos brinda información sobre cual es la siguiente pelicula de Marvel, consumiendo una API externa y mostrando los datos necesarios por pantalla de forma amigable
 
 ## Tecnologias usadas
 
@@ -8,7 +8,7 @@ Este proyecto muestra como muestra el titulo cual es la siguiente pelicula de Ma
 * Picocss
 * Curl (consumo de API)
 
-## Images
+## Imagen
 
 ![This is an alt text.](./img/site-mockup.png)
 
